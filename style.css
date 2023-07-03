@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(0.25turn, #11303d, #374049, #1f2b66);}
+.head
+{
+ 
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    display: inline-block;
+    position: relative;
+    padding-top: 30px;
+    margin-left: 1200px;
+    font-weight: normal;
+    transition: color 1s;
+}
