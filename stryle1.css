@@ -1,0 +1,117 @@
+body {
+        background: linear-gradient(#080b1fde, #12171a7c);
+        background-repeat: no-repeat;
+
+}
+#logo {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 100px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+#likes {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1100px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+#dislikes {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1250px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+#dislikes {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1250px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+#about {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1450px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+#contact {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1600px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+#header {
+    color: white;
+    font-family: DINWebPro-Bold;
+    /* text-transform: uppercase; */
+    font-size: 1.4em;
+    letter-spacing: 0.1em;
+    margin-top: 130px;
+    margin-left: 10px; 
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+}
+
+#insideText {
+    color: white;
+    font-family: DINWebPro-Bold;
+    /* text-transform: uppercase; */
+    font-size: 1.1em;
+    letter-spacing: 0.1em;
+    padding-top: 230px;
+    margin-left: auto;
+    margin-bottom: 0%;
+   
+}
+
+.aligncenter {
+    text-align: center;
+}
