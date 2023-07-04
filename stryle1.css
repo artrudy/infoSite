@@ -95,9 +95,22 @@ body {
     letter-spacing: 0.1em;
     margin-top: 130px;
     margin-left: 10px; 
+    margin-right: 20px;
     position: absolute;
     height: 100px;
     left: 5%; 
+}
+#header1 {
+    color: white;
+    font-family: DINWebPro-Bold;
+    /* text-transform: uppercase; */
+    font-size: 1.1em;
+    letter-spacing: 0.1em;
+    padding-top: 230px;
+    padding-left: 100px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-bottom: 0%;
 }
 
 #insideText {
@@ -107,6 +120,22 @@ body {
     font-size: 1.1em;
     letter-spacing: 0.1em;
     padding-top: 230px;
+    padding-left: 100px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-bottom: 0%;
+   
+}
+
+#summingUp {
+    color: white;
+    font-family: DINWebPro-Bold;
+    /* text-transform: uppercase; */
+    font-size: 1.1em;
+    letter-spacing: 0.1em;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 20px;
     margin-left: auto;
     margin-bottom: 0%;
    
