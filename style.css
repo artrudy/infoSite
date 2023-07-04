@@ -1,5 +1,21 @@
+
+
+
 body {
-    background: linear-gradient(0.25turn, #11303d, #374049, #1f2b66);}
+    height: 100%;
+    margin: 0;
+    background-image: url("img1.jpg");
+    height: 100%; 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+
+
+
+}
 #logo {
     color: white;
     font-family: DINWebPro-Bold;
@@ -11,9 +27,83 @@ body {
     position: absolute;
     height: 100px;
     left: 5%; 
-
+    text-decoration: none;
 }
-.head
+
+
+#likes {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1100px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+#dislikes {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1250px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+#dislikes {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1250px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+#about {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1450px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+
+#contact {
+    color: white;
+    font-family: DINWebPro-Bold;
+    text-transform: uppercase;
+    font-size: 1.4375em;
+    letter-spacing: 0.1em;
+    margin-top: 30px;
+    margin-left: 1600px;
+    position: absolute;
+    height: 100px;
+    left: 5%; 
+    text-decoration: none;
+}
+
+
+/* .head
 { 
     color: white;
     font-family: DINWebPro-Bold;
@@ -30,7 +120,7 @@ body {
 #navigation {
 
     /* text-decoration: none; */
-    color: white;
+    /* color: white;
     font-family: DINWebPro-Bold;
     text-transform: uppercase;
     font-size: 1.4375em;
@@ -43,5 +133,5 @@ body {
     -webkit-transition: color 1s;
     -moz-transition: color 1s;
     -o-transition: color 1s;
-    transition: color 1s;
-}
+    transition: color 1s; */
+/* } */ 
